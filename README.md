@@ -1,8 +1,8 @@
 # 🚀Meetapp
- Desafio final do Rocketseat Bootcamp
-A code challenge from Rocketseat Bootcamp
-
+Desafio final do Rocketseat Bootcamp - A code challenge from Rocketseat Bootcamp
 Build a backend, a web front end and mobile application for bookings.
+
+<img src="https://img.shields.io/github/languages/top/yarapolana/Meetapp">
 
 # 💻Tech used
    ## Frameworks:
