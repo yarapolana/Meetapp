@@ -7,7 +7,7 @@
     "axios": "^0.21.1",
     "date-fns": "^2.0.1",
     "history": "^4.9.0",
-    "immer": "^9.0.12",
+    "immer": "^9.0.6",
     "polished": "^3.4.1",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
